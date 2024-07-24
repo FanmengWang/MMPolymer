@@ -1,5 +1,5 @@
 # MMPolymer: A Multimodal Multitask Pretraining Framework for Polymer Property Prediction
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue)](https://github.com/FanmengWang/MMPolymer/blob/master/LICENCE.txt)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue)](https://github.com/FanmengWang/MMPolymer/blob/master/LICENSE.txt)
 [![Static Badge](https://img.shields.io/badge/PyTorch-red)](https://pytorch.org/)
 
 
