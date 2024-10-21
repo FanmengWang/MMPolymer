@@ -3,7 +3,7 @@
 [![Static Badge](https://img.shields.io/badge/PyTorch-red)](https://pytorch.org/)
 
 
-[[Paper]](https://arxiv.org/abs/2406.04727) [[Website]](https://bohrium.dp.tech/apps/mmpolymer) 
+[[Paper]](https://dl.acm.org/doi/10.1145/3627673.3679684) [[Website]](https://bohrium.dp.tech/apps/mmpolymer) 
 
 
 MMPolymer is a multimodal multitask pretraining framework that incorporates both 1D sequential and 3D structural information into polymer property prediction
