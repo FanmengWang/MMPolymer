@@ -44,7 +44,7 @@ The origin data have beed placed in the fold `./dataset/data`, and please furthe
 
 Training
 ------------
-Please download the [checkpoint](https://drive.google.com/file/d/17U4B7ABJYmgJ6WX8uN84qOaA1NIxnXpo/view?usp=sharing) and place it to the fold `./ckpt`
+Please download the [checkpoint](https://drive.google.com/file/d/1A_5_dzVYuA2ZG4Bb9POfkzEEjkLb7WiE/view?usp=sharing) and place it to the fold `./ckpt`
   ```bash
   bash train.sh
   ```
