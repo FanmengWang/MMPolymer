@@ -80,12 +80,11 @@ Citation
 If this work can help you, please cite it 
 ```
 @inproceedings{wang2024mmpolymer,
-author={Wang, Fanmeng and Guo, Wentao and Cheng, Minjie and Yuan, Shen and Xu, Hongteng and Gao, Zhifeng},
-title = {MMPolymer: A Multimodal Multitask Pretraining Framework for Polymer Property Prediction},
-booktitle = {Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
-location = {Boise, ID, USA},
-year = {2024},
-series = {CIKM '24}
+  title={MMPolymer: A Multimodal Multitask Pretraining Framework for Polymer Property Prediction},
+  author={Wang, Fanmeng and Guo, Wentao and Cheng, Minjie and Yuan, Shen and Xu, Hongteng and Gao, Zhifeng},
+  booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages={2336--2346},
+  year={2024}
 }
 ```
 
