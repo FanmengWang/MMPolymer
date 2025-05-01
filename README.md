@@ -40,7 +40,7 @@ The origin data have beed placed in the fold `./dataset/data`, and please furthe
   python pretrain_data_process.py
   python finetune_data_process.py
   ```
-
+After that, please further split the processed data (e.g., Egc.lmdb) using five-fold cross-validation (**recommend**) or directly dividing it into train/valid/test sets according to a specific ratio (e.g., 6:2:2)
 
 Training
 ------------
