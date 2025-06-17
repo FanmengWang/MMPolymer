@@ -557,7 +557,7 @@ def smi2coords(content):
 
 if __name__ == "__main__":
 
-    tokenizer = PolymerSmilesTokenizer.from_pretrained("../MMPolymer/models/roberta-base", max_len=411)
+    tokenizer = PolymerSmilesTokenizer.from_pretrained("roberta-base", max_len=411)
     
     save_path = f'./pretrain_data/'
     os.makedirs(save_path, exist_ok=True)
