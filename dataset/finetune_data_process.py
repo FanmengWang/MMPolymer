@@ -483,7 +483,7 @@ def smi2_3Dcoords(smi,cnt):
 
 def inner_smi2coords(content):  
     smi = content[0]
-    target = content[1]
+    target = float(content[1])
     
     mol = Chem.MolFromSmiles(smi)
     atoms = [atom.GetSymbol() for atom in mol.GetAtoms()]
