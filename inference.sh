@@ -11,6 +11,7 @@ for data in "${data_list[@]}"
         conf_size=11
         only_polar=0
 
+        export CUDA_VISIBLE_DEVICES=0
         python ./MMPolymer/infer.py --user-dir ./MMPolymer $data_path --task-name $task_name --valid-subset test \
             --results-path $results_path \
             --num-workers 8 --ddp-backend=c10d --batch-size $batch_size \
